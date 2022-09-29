@@ -1,5 +1,5 @@
 ---
-title:  "Develog 시작"
+title:  "Develog Begins"
 layout: post
 categories: media
 ---
